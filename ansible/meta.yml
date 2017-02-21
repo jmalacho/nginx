@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Jonathan Malachowski
+  description: Docker service nginx
+  company: Coveros
+
+  # If the issue tracker for your role is not on GitHub, uncomment the
+  # next line and provide a value
+  # issue_tracker_url: 
+
+  license: license (GPLv2, CC-BY, etc)
+
+  min_ansible_container_version: 0.2.0
+
+  tags: []
